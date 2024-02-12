@@ -1,6 +1,7 @@
 {
   "name": "xolio_react",
   "version": "0.1.0",
+  "homepage": "https://Aichouch-benten.github.io",
   "private": true,
   "dependencies": {
     "bootstrap": "^5.2.3",
