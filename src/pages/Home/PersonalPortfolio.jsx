@@ -16,7 +16,7 @@ const PersonalPortfolio = () => {
   return (
     <Layout header={2} footer={2} className="black-background">
       <BannerTwo />
-      <BrandArea />
+      {/* <BrandArea /> */}
       <AboutAreaTwo />
       <CounterArea />
       <ServicesAreaTwo />

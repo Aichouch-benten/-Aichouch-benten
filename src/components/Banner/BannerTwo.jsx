@@ -13,30 +13,30 @@ const BannerTwo = () => {
           </div>
           <div className="col-xl-6 col-lg-7">
             <div className="banner-content-two">
-              <span className="sub-title">Hi, I am John William</span>
+              <span className="sub-title">Hi, I am Aicha Ben Tanfous</span>
               <h2 className="title">
-                Professional Product <span>Designer</span> Based in USA
+                Professional Marketing <span>Specialist</span> 
               </h2>
               <div className="banner-content-bottom">
                 <Link to="/contact" className="btn">
-                  Contact Us <span></span>
+                  Contact me <span></span>
                 </Link>
                 
                 <ul className="list-wrap">
                   <li>
-                    <a href="#">
+                    <a href="https://www.instagram.com/aicha_bentanfous/">
                       <img src="/img/icon/banner_icon01.svg" alt="" />
                     </a>
                   </li>
                   <li>
-                    <a href="#">
+                    {/* <a href="#">
                       <img src="/img/icon/banner_icon02.svg" alt="" />
-                    </a>
+                    </a> */}
                   </li>
                   <li>
-                    <a href="#">
+                    {/* <a href="#">
                       <img src="/img/icon/banner_icon03.svg" alt="" />
-                    </a>
+                    </a> */}
                   </li>
                   <li>
                     <a href="#">

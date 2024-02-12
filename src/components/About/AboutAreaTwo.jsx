@@ -20,18 +20,20 @@ const AboutAreaTwo = () => {
           <div className="col-lg-6">
             <div className="about-content-two">
               <div className="section-title white-title title-style-two mb-30">
-                <span className="sub-title">I'm a Designer</span>
+                <span className="sub-title">I'm a Marketing Specialist</span>
                 <h2 className="title">
-                  I Can Design per <br />
-                  Your Requirement
+                  Creative and dynamic <br />
+                  Marketing Professional
                 </h2>
               </div>
               <p>
-                Hello there! I'm a web designer, and I'm very passionate and
-                dedicated to my work. With 20 years experience as a professional
-                web developer, I have acquired the skills and knowledge
-                necessary to make your project a success. I enjoy every step of
-                the design process, from discussion and collaboration.
+                An expert in developing innovative go-to-market strategies, I
+                excel at driving brand growth and engagement through impactful
+                digital campaigns. My expertise spans various sectors, including
+                tech and health, where I have led teams to marketing success. As
+                a fervent advocate for work-life balance, my passion for
+                backpacking, hiking, nature, and camping inspires a fresh,
+                adventurous approach to my professional career.
               </p>
               <Link to="/contact">
                 <span className="arrow">

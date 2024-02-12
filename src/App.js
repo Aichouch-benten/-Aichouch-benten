@@ -58,7 +58,7 @@ function App() {
       />
 
       <Routes>
-        <Route path="/" element={<CreativeAgency />} />
+        <Route path="/" element={<PersonalPortfolio />} />
         <Route path="/home-two" element={<PersonalPortfolio />} />
         <Route path="/home-three" element={<DigitalAgency />} />
         <Route path="/about-us" element={<AboutUs />} />
